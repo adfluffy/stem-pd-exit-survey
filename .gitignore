@@ -1,0 +1,12 @@
+# .gitignore
+
+# Ignore raw data
+data/
+
+# Ignore images if they’re too big or auto-generated
+images/
+
+# RStudio & session files
+.Rproj.user/
+.Rhistory
+.RData
